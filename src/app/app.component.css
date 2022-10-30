@@ -1,0 +1,22 @@
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: darkmagenta;
+    background-color: cyan;
+}
+
+a:visited,a:link{
+    padding: 20px 20px;
+    margin: 50px;
+    color:blue;
+    background-color: cadetblue;
+    display: inline-block;
+    text-decoration: double;
+    font-weight: bolder;
+}
+
+
+a:hover,a:active{
+    background-color: aquamarine;
+}
